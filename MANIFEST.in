@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include backend/templates *.html
+recursive-include backend/static *
+recursive-include scripts/ahk/automation_scripts *.ahk
+recursive-include scripts/python/automation *.py
